@@ -3,7 +3,7 @@
 - **Subtema**: Fundamentos - Compartilhar estado entre componentes com elevação de estado
 
 ## Objetivos
-- Criar componentes que compartilham estado do componente pai
+- Criar componentes filho que compartilham estado de um componente pai
 
 ## Resumo
 Será criado um projeto javascript de uma aplicação web com o framework React e a 
