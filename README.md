@@ -22,3 +22,22 @@ de `MeuBotao`.
 - conteúdo: [aplicação web](https://github.com/infoweb-pos/react-notas_de_aula)
 - instituição: IFRN CNAT
 - professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora/)
+
+## Executar a aplicação
+```console
+[07-01-elevacao_de_estado-contador] $ npm i
+added 209 packages, and audited 210 packages in 15s
+
+39 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[07-01-elevacao_de_estado-contador] $ npm run dev
+ VITE v4.3.9  ready in 400 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+
+```
